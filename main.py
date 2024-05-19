@@ -1,3 +1,4 @@
+"""Simple program to check fastapi"""
 from fastapi import FastAPI
 
 app = FastAPI()
